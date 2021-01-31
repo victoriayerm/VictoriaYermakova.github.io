@@ -11,6 +11,8 @@ Things I love:
 * :tada: theatres
 * :heart: learn something new
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apivictoriayerm=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 We can connect on [LinkedIn](https://www.linkedin.com/)
 
 See you all soon!
