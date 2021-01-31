@@ -12,5 +12,7 @@ Things I love:
 * :heart: learn something new
 
 We can connect on [LinkedIn] (www.linkedin.com/in/victoria-yermakova)
+
 See you all soon!
+
 Thanks for reading it! :laughing:
