@@ -13,7 +13,7 @@ Things I love:
 
 ![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoriayerm&show_icons=true&theme=vue-dark)
 
-We can connect on [LinkedIn](https://www.linkedin.com/)
+We can connect on [LinkedIn](www.linkedin.com/in/victoria-yermakova)
 
 See you all soon!
 
